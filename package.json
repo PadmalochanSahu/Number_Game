@@ -1,5 +1,6 @@
 {
   "name": "project",
+  "homepage": "https://github.com/PadmalochanSahu/Number_Game.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
