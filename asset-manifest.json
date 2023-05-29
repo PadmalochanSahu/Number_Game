@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PadmalochanSahu/Number_Game.git/static/css/main.a52299ff.css",
+    "main.js": "/PadmalochanSahu/Number_Game.git/static/js/main.8ac8ce35.js",
+    "static/js/787.ec704a7a.chunk.js": "/PadmalochanSahu/Number_Game.git/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/PadmalochanSahu/Number_Game.git/index.html",
+    "main.a52299ff.css.map": "/PadmalochanSahu/Number_Game.git/static/css/main.a52299ff.css.map",
+    "main.8ac8ce35.js.map": "/PadmalochanSahu/Number_Game.git/static/js/main.8ac8ce35.js.map",
+    "787.ec704a7a.chunk.js.map": "/PadmalochanSahu/Number_Game.git/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a52299ff.css",
+    "static/js/main.8ac8ce35.js"
+  ]
+}
